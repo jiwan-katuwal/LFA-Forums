@@ -1,0 +1,10 @@
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\bin\Debug\LFA.Fourm.ConsoleUI.exe.config
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\bin\Debug\LFA.Fourm.ConsoleUI.exe
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\bin\Debug\LFA.Fourm.ConsoleUI.pdb
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\obj\Debug\LFA.Fourm.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\obj\Debug\LFA.Fourm.ConsoleUI.exe
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\obj\Debug\LFA.Fourm.ConsoleUI.pdb
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\bin\Debug\LFA.Forum.Common.dll
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\bin\Debug\LFA.Forum.Common.pdb
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\bin\Debug\LFA.Forum.BLL.dll
+C:\JIWAN\Projects\LFAForumProject\UI\LFA.Fourm.ConsoleUI\bin\Debug\LFA.Forum.BLL.pdb

@@ -1,0 +1,4 @@
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.Common\bin\Debug\LFA.Forum.Common.dll
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.Common\bin\Debug\LFA.Forum.Common.pdb
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.Common\obj\Debug\LFA.Forum.Common.dll
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.Common\obj\Debug\LFA.Forum.Common.pdb

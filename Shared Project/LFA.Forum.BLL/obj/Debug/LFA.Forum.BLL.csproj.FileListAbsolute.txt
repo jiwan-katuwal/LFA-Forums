@@ -1,0 +1,9 @@
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\bin\Debug\LFA.Forum.BLL.dll
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\bin\Debug\LFA.Forum.BLL.pdb
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\bin\Debug\LFA.Forum.Common.dll
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\bin\Debug\LFA.Forum.DAL.dll
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\bin\Debug\LFA.Forum.Common.pdb
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\bin\Debug\LFA.Forum.DAL.pdb
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\obj\Debug\LFA.Forum.BLL.csprojResolveAssemblyReference.cache
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\obj\Debug\LFA.Forum.BLL.dll
+C:\JIWAN\Projects\LFAForumProject\Shared Project\LFA.Forum.BLL\obj\Debug\LFA.Forum.BLL.pdb
